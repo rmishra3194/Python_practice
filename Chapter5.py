@@ -85,4 +85,5 @@ def snowflake(t, length, n):
         t.rt(360/n)
 
 
-turtle.speed(50)
+
+koch(bob, 100)
